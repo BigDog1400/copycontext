@@ -1,5 +1,5 @@
 const textToCopy = [];
-
+console.log("test");
 const copyToClipboard = textToCopy => {
   console.log(textToCopy);
   const el = document.createElement("textarea");
